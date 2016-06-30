@@ -47,3 +47,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # HAML for better HTML writting 
 gem 'haml'
+
+# Materializecss for better style
+gem 'materialize-sass'
